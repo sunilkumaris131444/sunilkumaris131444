@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+About
+
+🔭 I'm passionate about Artificial Intelligence, Deep Learning, Machine Learning, Computer Vision, Natural Language Processing and Generative Adversarial Networks. And I'm also very interested to solve problems in the field of healthcare through Artificial Intelligence.
 <!--
 **sunilkumaris131444/sunilkumaris131444** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +17,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunilkumaris131444&show_icons=true&theme=radical)
+![Sunil's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunilkumaris131444&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunilkumaris131444&theme=tokyonight)
 
